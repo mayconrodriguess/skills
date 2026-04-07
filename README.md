@@ -17,16 +17,16 @@ Enquanto o repositório de prompts foca em técnicas e estudo, aqui o foco é ap
 
 ## Estrutura sugerida
 
-- `skills/`
+- [skills/](./skills/)
   Skills organizadas por tema, problema ou fluxo de trabalho.
 
-- `templates/`
+- [templates/](./templates/)
   Modelos de entrada, contexto e instruções reutilizáveis.
 
-- `workflows/`
+- [workflows/](./workflows/)
   Fluxos práticos para automação, suporte, documentação e análise.
 
-- `examples/`
+- [examples/](./examples/)
   Exemplos de uso com cenários técnicos.
 
 ## Temas previstos
