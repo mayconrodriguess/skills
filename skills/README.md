@@ -4,18 +4,7 @@ Esta pasta reúne skills organizadas por tema e fluxo de trabalho, com foco em u
 
 ## Objetivo
 
-Funcionar como uma biblioteca de skills reutilizáveis para acelerar tarefas técnicas, jurídicas, operacionais e de automação.
-
-## Skills disponíveis
-
-- [painel-juridico-avancado](./painel-juridico-avancado/)
-  Painel pericial jurídico multidisciplinar para análise de conversas, documentos, conflitos, riscos legais e comunicações sensíveis no contexto brasileiro.
-
-- [contratos-blindados](./contratos-blindados/)
-  Skill especializada em elaboração, revisão, blindagem contratual e análise de cláusulas sob a ótica do Direito Contratual Brasileiro.
-
-- [Transcrição-de-Midia](./Transcrição-de-Midia/)
-  Skill para transcrição automática de áudio e vídeo com Whisper local, geração de texto, legendas e processamento em lote.
+Funcionar como uma biblioteca de skills reutilizáveis para acelerar tarefas técnicas, operacionais e de automação.
 
 ## Estrutura esperada de cada skill
 
