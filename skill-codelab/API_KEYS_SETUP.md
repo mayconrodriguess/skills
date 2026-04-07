@@ -1,4 +1,4 @@
-# 🔑 Configuração de Chaves API — Skills Codelab
+# 🔑 Configuração de Chaves API — Skill Codelab
 
 > Este arquivo explica como configurar todas as chaves de API e credenciais necessárias para o funcionamento completo do pipeline Autonomous AI Developer.
 

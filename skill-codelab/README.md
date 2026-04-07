@@ -1,6 +1,6 @@
 # skill-codelab
 
-`skills-codelab` é a célula experimental de desenvolvimento e testes da aplicação.
+`skill-codelab` é a célula experimental de desenvolvimento e testes da aplicação.
 
 Mais do que uma pasta técnica, este espaço funciona como uma pequena equipe-orquestra: aqui vivem os agentes, skills, fluxos e materiais de apoio usados para pensar, construir, validar e evoluir features com mais velocidade e mais consistência.
 
@@ -19,7 +19,7 @@ Este diretório reúne a base operacional de uma equipe de desenvolvimento assis
 
 ## Visão da equipe
 
-Pense no `skills-codelab` como um codelab vivo:
+Pense no `skill-codelab` como um codelab vivo:
 
 - o Product e a Arquitetura ajudam a definir o caminho
 - os especialistas técnicos aceleram implementação
