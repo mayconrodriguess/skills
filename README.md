@@ -15,20 +15,6 @@ Enquanto o repositório de prompts foca em técnicas e estudo, aqui o foco é ap
 - fluxos reutilizáveis para agentes
 - modelos de organização para prompts operacionais
 
-## Estrutura sugerida
-
-- [skills/](./skills/)
-  Skills organizadas por tema, problema ou fluxo de trabalho.
-
-- [templates/](./templates/)
-  Modelos de entrada, contexto e instruções reutilizáveis.
-
-- [workflows/](./workflows/)
-  Fluxos práticos para automação, suporte, documentação e análise.
-
-- [examples/](./examples/)
-  Exemplos de uso com cenários técnicos.
-
 ## Temas previstos
 
 - skills para troubleshooting
