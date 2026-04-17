@@ -1,53 +1,47 @@
 # Skills e Estruturas para IA
 
-Este repositório será usado para organizar skills, estruturas reutilizáveis, templates operacionais e padrões de uso para fluxos com IA.
+Repositorio para organizar skills reutilizaveis, templates operacionais, workflows e estruturas de apoio para uso pratico com IA.
 
 ## Objetivo
 
-Separar o conteúdo operacional e reutilizável do material mais conceitual de prompt engineering.
-Enquanto o repositório de prompts foca em técnicas e estudo, aqui o foco é aplicação prática e reaproveitamento.
+Separar o conteudo operacional e reutilizavel do material mais conceitual de prompt engineering. Aqui o foco e aplicacao pratica, reaproveitamento e organizacao de estruturas que podem ser usadas em diferentes projetos.
 
-## O que você vai encontrar aqui
+## Estrutura principal
 
-- skills para tarefas técnicas
-- estruturas de contexto
-- templates de instruções
-- fluxos reutilizáveis para agentes
-- modelos de organização para prompts operacionais
+- [examples/](./examples) - exemplos de uso e referencia
+- [skill-codelab/](./skill-codelab) - materiais de estudo e laboratorio
+- [skills/](./skills) - skills reutilizaveis
+- [templates/](./templates) - modelos e estruturas base
+- [workflows/](./workflows) - fluxos operacionais e roteiros
+- [Squad/](./Squad) - pacote de equipe de desenvolvimento assistida por IA
 
-## Temas previstos
+## Destaque: Squad
 
-- skills para troubleshooting
-- skills para documentação técnica
-- skills para automação com PowerShell e Bash
-- skills para organização operacional
-- estruturas para agentes de IA
-- templates para suporte técnico e produtividade
+A pasta [Squad/](./Squad) concentra uma estrutura pronta para operar uma squad de desenvolvimento com IA, incluindo:
 
-## Separação entre os repositórios
+- agentes especializados
+- skills por papel tecnico
+- workflows de inicio e governanca
+- memoria de contexto do projeto
+- materiais de setup e continuidade entre ferramentas
 
-### Prompt-Engineering-Guide
+Arquivos de entrada:
 
-Foco em:
+- [Squad/README.md](./Squad/README.md)
+- [Squad/HOW_TO_USE_WITH_DIFFERENT_AIs.md](./Squad/HOW_TO_USE_WITH_DIFFERENT_AIs.md)
+- [Squad/API_KEYS_SETUP.md](./Squad/API_KEYS_SETUP.md)
 
-- conceitos
-- técnicas
-- exemplos de prompting
-- organização do conhecimento em português-BR
+## Relacao com o repositorio Prompt-Engineering-Guide
 
-Repositório:
+O repositorio [Prompt-Engineering-Guide](https://github.com/mayconrodriguess/Prompt-Engineering-Guide) continua focado em conceitos, tecnicas e organizacao de conhecimento sobre prompting.
 
-- [Prompt-Engineering-Guide](https://github.com/mayconrodriguess/Prompt-Engineering-Guide)
+Este repositorio `skills` fica focado em:
 
-### skills
+- assets reutilizaveis
+- estruturas de execucao
+- templates praticos
+- organizacao de agentes e workflows
 
-Foco em:
+## Observacao
 
-- skills reutilizáveis
-- templates práticos
-- fluxos operacionais
-- estruturas para uso recorrente com IA
-
-## Observação
-
-Este repositório vai funcionar como biblioteca prática para acelerar trabalho com IA em cenários de T.I., segurança, automação e produtividade técnica.
+Este repositorio funciona como biblioteca pratica para acelerar trabalho com IA em cenarios de desenvolvimento, T.I., seguranca, automacao e produtividade tecnica.
