@@ -18,7 +18,7 @@ skills-squads-and-prompts/
 +-- skills/          - biblioteca de skills reutilizáveis
 +-- Squad/           - área dedicada a squads e estruturas de execução multiagente
 +-- Prompts/         - prompts documentados, procedimentos executáveis e guias técnicos
-
+```
 
 ## Skills
 
