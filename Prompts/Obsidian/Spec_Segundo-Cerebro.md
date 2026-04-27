@@ -292,6 +292,3 @@ Se você é uma IA com acesso a terminal, siga este fluxo de decisão:
 4. Para Windows, **sempre** use `"command": "C:\\Program Files\\nodejs\\npx.cmd"`.
 5. Em caso de erro, sempre leia primeiro o log em PARTE 7.
 
----
-
-*Atualizado em: 2026-04-25*
